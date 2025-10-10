@@ -10,10 +10,10 @@ export default function DesktopNavigation() {
                 Team
             </Link>
             <Link to="issue" smooth={true} duration={500} offset={-65} className="text-md font-medium transition-colors hover:text-yellow-700 cursor-pointer">
-                The Issue
+                Issue
             </Link>
             <Link to="mission" smooth={true} duration={500} offset={-65} className="text-md font-medium transition-colors hover:text-yellow-700 cursor-pointer">
-                Our Mission
+                Mission
             </Link>
             <Link to="contact" smooth={true} duration={500} offset={-65} className="text-md font-medium transition-colors hover:text-yellow-700 cursor-pointer">
                 Contact

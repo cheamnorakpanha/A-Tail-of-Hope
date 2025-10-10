@@ -29,7 +29,7 @@ export default function MobileNavigation() {
                     className="block px-3 py-2 text-base font-medium transition-colors hover:text-yellow-700"
                     onClick={() => setMobileMenuOpen(false)}
                 >
-                    The Issue
+                    Issue
                 </Link>
                 <Link
                     to="mission"
@@ -37,7 +37,7 @@ export default function MobileNavigation() {
                     className="block px-3 py-2 text-base font-medium transition-colors hover:text-yellow-700"
                     onClick={() => setMobileMenuOpen(false)}
                 >
-                    Our Mission
+                    Mission
                 </Link>
                 <Link
                     to="contact"

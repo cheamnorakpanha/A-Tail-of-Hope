@@ -9,10 +9,10 @@ function DesktopNavBar() {
             <Link to="team" smooth={true} duration={500} offset={-65} className="text-md font-medium transition-colors hover:text-yellow-700">Team
             </Link>
             <Link to="issue" smooth={true} duration={500} offset={-65} className="text-md font-medium transition-colors hover:text-yellow-700">
-                The Issue
+                Issue
             </Link>
             <Link to="mission" smooth={true} duration={500} offset={-65} className="text-md font-medium transition-colors hover:text-yellow-700">
-                Our Mission
+                Mission
             </Link>
             <Link to="contact" smooth={true} duration={500} offset={-65} className="text-md font-medium transition-colors hover:text-yellow-700">
                 Contact

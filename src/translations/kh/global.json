@@ -1,0 +1,174 @@
+{
+    "navbar": {
+        "title": "កន្ទុយនៃក្តីសង្ឃឹម",
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact",
+        "getInvolved": "Get Involved"
+    },
+    "main": {
+        "title": "Protecting Canine Lives in Cambodia",
+        "desc": "A research initiative raising awareness about the dog meat trade in Kampot Province and promoting canine welfare.",
+        "button1": "Learn More",
+        "button2": "Support Our Project"
+    },
+    "about": {
+        "title": "About Our Initiative",
+        "desc": "A Tail of Hope is a research initiative",
+        "sections": {
+            "1": {
+                "title": "Our Background",
+                "content": "Our initiative was founded out of concern for animal welfare and the growing issue of dog meat trade in Cambodia. Seeing its impact on animals and communities, we aim to inform the public, advocate for better regulations, and support humane treatment of dogs."
+            },
+            "2": {
+                "title": "Research Focus",
+                "content": "We focus on the social, cultural, and economic factors behind the dog meat trade in Kampot Province. Our research explores public perceptions, health risks, and the emotional impact on pet owners, with the goal of offering practical solutions to reduce the trade and promote responsible pet ownership."
+            },
+            "3": {
+                "title": "Our Team",
+                "content": "We are senior IFL students, united by our passion for animal welfare. Working together with local communities, animal rescue groups, and experts, we strive to ensure our research creates meaningful change."
+            }
+        }
+    },
+    "team": {
+        "title": "Our Team",
+        "desc": "Meet the dedicated students behind A Tail of Hope initiative.",
+        "members": {
+            "member1": {
+                "name": "Visnow Navyra",
+                "role": "Leader/Project Manager",
+                "desc": "Navyra, a senior at IFL and NUM, is passionate about education and volunteering. She’s currently leading a project to promote the value of canine life and looks forward to sharing the experience of rehabilitating stray dogs in Kampot with her teammates and participants."
+            },
+            "member2": {
+                "name": "An Sereypanharoth",
+                "role": "Monitoring and Evaluation Officer",
+                "desc": "Panharoth, a student at IFL and RUPP, is dedicated to fighting the dog meat trade. Through the Tail of Hope project, she aims to raise awareness and inspire others to stand against cruelty to dogs."
+            },
+            "member3": {
+                "name": "Sry Thaiseang",
+                "role": "Logistic Coordinator",
+                "desc": "Thaiseang, a fourth-year IFL student and part-time worker, is passionate about dogs and eager to learn more about their care. He hopes to promote responsible pet ownership."
+            },
+            "member4": {
+                "name": "Cheam Norakpanha",
+                "role": "Operation Coordinator",
+                "desc": "Norakpanha, a senior at IFL, RUPP, is passionate about project coordination and animal welfare. He is committed to raising awareness about the dog meat trade and looks forward to collaborating on impactful initiatives for humane animal treatment."
+            },
+            "member5": {
+                "name": "Ngoun Panhapich",
+                "role": "Project Finance Manager",
+                "desc": "Panhapich, a senior at IFL and RULE, is a dedicated team player eager to join the Tail of Hope Project. She is committed to raising awareness about the health risks of consuming dog meat and strongly opposes the dog meat trade."
+            },
+            "member6": {
+                "name": "Sok Michell",
+                "role": "Marketing and Communication Lead",
+                "desc": "Michell, a senior at IFL, is deeply disturbed that the dog meat trade and consumption persist today. Through this project, she is determined to see a significant reduction in both this cruel practice and the number of stray dogs."
+            },
+            "member7": {
+                "name": "Bun Chandalys",
+                "role": "Marketing and Communication lead",
+                "desc": "Dalys, a senior at IFL, is committed to a better society. Despite her fear of dogs, she values their lives and eagerly joins the 'Tail of Hope' project to raise awareness and support rescuing stray dogs."
+            }
+        }
+    },
+    "issue": {
+        "title": "The Issue",
+        "desc": "The dog meat trade in Cambodia raises concerns related to health, emotional well-being, and the limited presence of clear regulations. This practice continues in some communities and may affect both people and animals in different ways.",
+        "sections": {
+            "1": {
+                "title": "Health Risks",
+                "content": "Dog meat consumption can spread rabies and other diseases, especially when hygiene and safety standards are lacking."
+            },
+            "2": {
+                "title": "Emotional Impact",
+                "content": "Many families experience distress when their pets are taken or lost to the trade, as dogs are often seen as companions."
+            },
+            "3": {
+                "title": "Lack of Regulation",
+                "content": "The absence of clear laws and enforcement allows the trade to continue, raising concerns for both animal welfare and public health."
+            }
+        }
+    },
+    "mission": {
+        "title": "Our Mission",
+        "desc": "Through this project, we aim to promote canine welfare and raise awareness about the dangers of the dog meat trade.",
+        "sections": {
+            "1": {
+                "title": "Raise Awareness",
+                "content": "We aim to educate the public about the health risks, such as rabies and other zoonotic diseases as well as the emotional and ethical consequences of dog meat consumption."
+            },
+            "2": {
+                "title": "Advocate for Regulations",
+                "content": "We work with local authorities and stakeholders to push for effective regulations that ban the dog meat trade and safeguard animal rights."
+            },
+            "3": {
+                "title": "Support Rescue Efforts",
+                "content": "In partnership with Dirty Paws, we help rescue dogs from the meat trade, ensure they receive proper medical care, and find them safe, loving homes."
+            }
+        }
+    },
+    "getinvolved": {
+        "title": "Get Involved",
+        "desc": "Be a voice for the voiceless. Join us in protecting dogs and raising awareness about the dangers of the dog meat trade in Kampot Province.",
+        "sections": {
+            "1": {
+                "title": "Donate",
+                "content": "Your contribution helps fund research, rescue efforts, and educational outreach. Every donation brings us one step closer to lasting change.",
+                "button": "Donate Now"
+            },
+            "2": {
+                "title": "Buy Our Merchandise",
+                "content": "Support our mission by purchasing our exclusive merch. Every item you buy helps fund our campaign and spreads the message of compassion.",
+                "button": "Buy Now"
+            },
+            "3": {
+                "title": "Spread the Word",
+                "content": "Raise awareness by sharing our cause on social media and encouraging others to get involved. Together, we can create a more humane future for animals.",
+                "button": "Share Now"
+            }
+        }
+    },
+    "whatpeoplearesaying": {
+        "title": "What People Are Saying",
+        "desc": "Hear from supporters, volunteers, and advocates who believe in our mission.",
+        "sections": {
+            "1": {
+                "feedback": "'A Tail of Hope is doing essential work by addressing the emotional and health impacts of the dog meat trade. Their focus on Kampot brings much-needed attention to an issue that's often ignored. Their efforts show that change can start with awareness and compassion.'",
+                "user": "Dirty Paws",
+                "role": "Animal Welfare Partner"
+            },
+            "2": {
+                "feedback": "'This project highlights a difficult topic with sensitivity and purpose. A Tail of Hope balances research with real community outreach, and that makes their message stronger. It's a powerful example of how students can drive social change.'",
+                "user": "Thann Sopheakboth",
+                "role": "Tail of Hope Supporter"
+            },
+            "3": {
+                "feedback": "'A Tail of Hope is more than just a research project. It's a voice for the voiceless. Their initiative sheds light on the hidden costs of the dog meat trade and advocates for humane treatment of animals. I truly admire their dedication.'",
+                "user": "Vey Iengveng",
+                "role": "Animal lover"
+            }
+        }
+    },
+    "activity": {
+        "title": "Our Activities",
+        "desc": "Explore the moments from our team's activities and outreach efforts in Kampot Province."
+    },
+    "contact": {
+        "title": "Contact Us",
+        "desc": "Have questions or want to learn more about our initiative? Get in touch with us.",
+        "heading": "Get in Touch",
+        "subheading": "Fill out the form and we'll get back to you as soon as possible.",
+        "phoneNumber": "+855 95 987 014",
+        "email": "tailofhope88@gmail.com",
+        "address": "Russian Federation Blvd (110), Phnom Penh 120404",
+        "form": {
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "message": "Message",
+            "button": "Send Message"
+        }
+    },
+    "copyright": "© 2025 A Tail of Hope | All rights reserved."
+}

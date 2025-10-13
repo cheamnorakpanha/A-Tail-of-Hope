@@ -1,6 +1,9 @@
 import { Link } from "react-scroll"
+import { useLanguage } from "../translations/LanguageContext";
 
 export default function Logo() {
+    const { t } = useLanguage();
+
     return (
         <div className="flex items-center">
             <Link
@@ -14,7 +17,7 @@ export default function Logo() {
                     src={require('../../img/logo/atoh_logo_removebg.png')}
                     className='h-12 w-12 cursor-pointer'
                 />
-                <span className="text-lg font-bold transition-colors hover:text-yellow-700 md:hidden lg:inline cursor-pointer">A Tail of Hope</span>
+                <span className="text-lg font-bold transition-colors hover:text-yellow-700 md:hidden lg:inline cursor-pointer">{t.navbar.title}</span>
             </Link>
         </div>
     )

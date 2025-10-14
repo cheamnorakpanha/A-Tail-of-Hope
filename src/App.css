@@ -1,3 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.khmer-regular {
+  font-family: "Khmer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.content-regular {
+  font-family: "Content", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.content-bold {
+  font-family: "Content", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+.koh-santepheap-thin {
+  font-family: "Koh Santepheap", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.koh-santepheap-light {
+  font-family: "Koh Santepheap", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.koh-santepheap-regular {
+  font-family: "Koh Santepheap", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.koh-santepheap-bold {
+  font-family: "Koh Santepheap", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.koh-santepheap-black {
+  font-family: "Koh Santepheap", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
 .App {
   text-align: center;
 }
@@ -36,7 +81,3 @@
     transform: rotate(360deg);
   }
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;

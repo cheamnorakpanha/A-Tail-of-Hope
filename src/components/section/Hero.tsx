@@ -35,7 +35,7 @@ function Hero() {
                 transition={{ duration: 1.25, ease: "easeOut" }}
                 viewport={{ once: true, amount: 0.6 }}
               >
-                {t.main.title}
+                {t.main.desc}
               </motion.p>
             </div>
             <motion.div

@@ -25,7 +25,7 @@ const About: React.FC = () => {
             transition={{ duration: 1.25, ease: "easeOut" }}
             viewport={{ once: true, amount: 0.6 }}
           >
-            {t.about.title}
+            {t.about.desc}
           </motion.p>
         </div>
 

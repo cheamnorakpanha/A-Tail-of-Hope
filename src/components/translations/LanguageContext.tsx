@@ -25,11 +25,11 @@ const getInitialLanguage = (): Language => {
 const applyFont = (lang: Language) => {
   const body = document.body;
   if (lang === "kh") {
-    body.classList.add("koh-santepheap-regular");
-    body.classList.remove("content-regular");
+    body.classList.add("koh-santepheap");
+    body.classList.remove("merriweather");
   } else {
-    body.classList.remove("koh-santepheap-regular");
-    body.classList.add("content-regular");
+    body.classList.remove("koh-santepheap");
+    body.classList.add("merriweather");
   }
 };
 

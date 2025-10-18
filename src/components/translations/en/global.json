@@ -116,7 +116,11 @@
             "1": {
                 "title": "Donate",
                 "content": "Your contribution helps fund research, rescue efforts, and educational outreach. Every donation brings us one step closer to lasting change.",
-                "button": "Donate Now"
+                "button": "Donate Now",
+                "donateModal": {
+                    "title": "Support Our Cause",
+                    "desc": "Scan the QR code in the image down below to make your donation. Every donation helps us protect canine lives in Cambodia"
+                }
             },
             "2": {
                 "title": "Buy Our Merchandise",

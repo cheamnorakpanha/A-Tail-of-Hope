@@ -127,11 +127,10 @@ function GetInvolved() {
             <div className="p-6">
               <div className="mb-4">
                 <h2 className="text-2xl font-bold text-center mb-2">
-                  Support Our Cause
+                  {t.getinvolved.sections[1].donateModal.title}
                 </h2>
                 <p className="text-gray-600 text-center">
-                  Scan the QR code in the image above to make your donation.
-                  Every donation helps us protect canine lives in Cambodia
+                  {t.getinvolved.sections[1].donateModal.desc}
                 </p>
               </div>
 

@@ -3,13 +3,13 @@ import { motion } from "framer-motion";
 import { useLanguage } from "../translations/LanguageContext";
 
 const teamImages = [
-  require("../../img/team/vyra.png"),
-  require("../../img/team/panharoth.png"),
-  require("../../img/team/thaiseang.png"),
-  require("../../img/team/panha.png"),
-  require("../../img/team/pich.png"),
-  require("../../img/team/michell.png"),
-  require("../../img/team/dalys.png"),
+  require("../../img/team/vyra.webp"),
+  require("../../img/team/panharoth.webp"),
+  require("../../img/team/thaiseang.webp"),
+  require("../../img/team/panha.webp"),
+  require("../../img/team/pich.webp"),
+  require("../../img/team/michell.webp"),
+  require("../../img/team/dalys.webp"),
 ];
 
 const Team: React.FC = () => {

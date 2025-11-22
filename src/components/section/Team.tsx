@@ -39,7 +39,7 @@ const Team: React.FC = () => {
           </motion.p>
         </motion.div>
 
-        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-8 md:grid-cols-1 lg:grid-cols-2">
           {Object.values(t.team.members).map((member: any, index: number) => (
             <motion.div
               key={index}

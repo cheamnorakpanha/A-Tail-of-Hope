@@ -14,7 +14,7 @@ export default function Logo() {
             >
                 <img
                     alt='A Tail of Hope Logo'
-                    src={require('../../img/logo/atoh_logo_removebg.png')}
+                    src={require('../../img/logo/atoh_logo_removebg.webp')}
                     className='h-12 w-12 cursor-pointer'
                 />
                 <span className="text-lg font-bold transition-colors hover:text-yellow-700 md:hidden lg:inline cursor-pointer">{t.navbar.title}</span>

@@ -87,8 +87,9 @@ function Mission() {
               viewport={{ once: true, amount: 0.6 }}
             >
               <Carousel autoSlide={true} autoSlideInterval={3000}>
-                {slides.map((s) => (
+                {slides.map((s, index) => (
                   <img
+                    key={index}
                     src={s}
                     alt="images with slides"
                     className="h-full w-full object-cover max-h-full max-w-full"

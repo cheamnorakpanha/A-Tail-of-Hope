@@ -2,7 +2,7 @@ import { Link } from "react-scroll";
 import { ChevronRight } from "lucide-react";
 import Carousel from "./Carousel";
 import { motion } from "framer-motion";
-import { useLanguage } from "../translations/LanguageContext";
+import { useLanguage } from "../../contexts/LanguageContext";
 
 function Hero() {
   const slides = [

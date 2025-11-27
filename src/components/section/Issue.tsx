@@ -1,6 +1,6 @@
 import { HeartPulse, Frown, Scale } from "lucide-react";
 import { motion } from "framer-motion";
-import { useLanguage } from "../translations/LanguageContext";
+import { useLanguage } from "../../contexts/LanguageContext";
 
 function Issue() {
   const { t } = useLanguage(); // t stands for Translations

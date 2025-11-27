@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { X } from "lucide-react";
 import { motion } from "framer-motion";
-import { useLanguage } from "../translations/LanguageContext";
+import { useLanguage } from "../../contexts/LanguageContext";
 
 function GetInvolved() {
   const [isModalOpen, setIsModalOpen] = useState(false);

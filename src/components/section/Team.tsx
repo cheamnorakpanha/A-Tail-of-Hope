@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { useLanguage } from "../translations/LanguageContext";
+import { useLanguage } from "../../contexts/LanguageContext";
 
 const teamImages = [
   require("../../img/team/vyra.webp"),

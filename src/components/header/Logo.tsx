@@ -1,5 +1,5 @@
 import { Link } from "react-scroll"
-import { useLanguage } from "../translations/LanguageContext";
+import { useLanguage } from "../../contexts/LanguageContext";
 
 export default function Logo() {
     const { t } = useLanguage();

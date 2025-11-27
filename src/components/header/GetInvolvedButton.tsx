@@ -1,6 +1,6 @@
 import { Link } from "react-scroll";
 import { Globe } from "lucide-react";
-import { useLanguage } from "../translations/LanguageContext";
+import { useLanguage } from "../../contexts/LanguageContext";
 
 export default function GetInvolvedButton() {
   const { lang, setLang, t } = useLanguage(); // t stands for Translations

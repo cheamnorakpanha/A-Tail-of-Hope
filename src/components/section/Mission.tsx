@@ -1,6 +1,6 @@
 import Carousel from "./Carousel";
 import { motion } from "framer-motion";
-import { useLanguage } from "../translations/LanguageContext";
+import { useLanguage } from "../../contexts/LanguageContext";
 
 function Mission() {
   const slides = [
